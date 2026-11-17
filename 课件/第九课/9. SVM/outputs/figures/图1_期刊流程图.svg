@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="295.2pt" viewBox="0 0 864 295.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-05T09:27:09.682627</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 295.2 
+L 864 295.2 
+L 864 0 
+L 0 0 
+z
+" style="fill: #f7f0e6"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 18.72 129.6 
+L 272.88 129.6 
+Q 278.64 129.6 278.64 123.84 
+L 278.64 20.88 
+Q 278.64 15.12 272.88 15.12 
+L 18.72 15.12 
+Q 12.96 15.12 12.96 20.88 
+L 12.96 123.84 
+Q 12.96 129.6 18.72 129.6 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 305.28 129.6 
+L 559.44 129.6 
+Q 565.2 129.6 565.2 123.84 
+L 565.2 20.88 
+Q 565.2 15.12 559.44 15.12 
+L 305.28 15.12 
+Q 299.52 15.12 299.52 20.88 
+L 299.52 123.84 
+Q 299.52 129.6 305.28 129.6 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 591.84 129.6 
+L 846 129.6 
+Q 851.76 129.6 851.76 123.84 
+L 851.76 20.88 
+Q 851.76 15.12 846 15.12 
+L 591.84 15.12 
+Q 586.08 15.12 586.08 20.88 
+L 586.08 123.84 
+Q 586.08 129.6 591.84 129.6 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 18.72 280.8 
+L 272.88 280.8 
+Q 278.64 280.8 278.64 275.04 
+L 278.64 172.08 
+Q 278.64 166.32 272.88 166.32 
+L 18.72 166.32 
+Q 12.96 166.32 12.96 172.08 
+L 12.96 275.04 
+Q 12.96 280.8 18.72 280.8 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 305.28 280.8 
+L 559.44 280.8 
+Q 565.2 280.8 565.2 275.04 
+L 565.2 172.08 
+Q 565.2 166.32 559.44 166.32 
+L 305.28 166.32 
+Q 299.52 166.32 299.52 172.08 
+L 299.52 275.04 
+Q 299.52 280.8 305.28 280.8 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 591.84 280.8 
+L 846 280.8 
+Q 851.76 280.8 851.76 275.04 
+L 851.76 172.08 
+Q 851.76 166.32 846 166.32 
+L 591.84 166.32 
+Q 586.08 166.32 586.08 172.08 
+L 586.08 275.04 
+Q 586.08 280.8 591.84 280.8 
+z
+" clip-path="url(#p96b02d8385)" style="fill: #fffcf7; stroke: #d7c7b6; stroke-width: 0.8; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 26.64 112.32 
+L 26.64 32.4 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #387da0; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 313.2 112.32 
+L 313.2 32.4 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #387da0; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 599.76 112.32 
+L 599.76 32.4 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #387da0; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 26.64 263.52 
+L 26.64 183.6 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #c9714d; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 313.2 263.52 
+L 313.2 183.6 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #c9714d; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 599.76 263.52 
+L 599.76 183.6 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #c9714d; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 720 128.16 
+L 720 147.6 
+L 144 147.6 
+" clip-path="url(#p96b02d8385)" style="fill: none; stroke: #6c7476; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #387da0" x="39.6" y="43.060693" transform="rotate(-0 39.6 43.060693)">01</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="74.16" y="43.55459" transform="rotate(-0 74.16 43.55459)">任务与数据</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(39.6 85.000798)">310 条记录；两个预设输入</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(39.6 101.184465)">训练 186 / 验证 62 / 测试 62</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #387da0" x="326.16" y="43.060693" transform="rotate(-0 326.16 43.060693)">02</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="360.72" y="43.529199" transform="rotate(-0 360.72 43.529199)">几何与容错</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(326.16 84.978337)">边界 → 距离 → 支持向量</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(326.16 100.482786)">八点示例；hinge 与 soft margin</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #387da0" x="612.72" y="43.060693" transform="rotate(-0 612.72 43.060693)">03</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="647.28" y="43.55459" transform="rotate(-0 647.28 43.55459)">完整训练实验</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(612.72 84.978337)">训练集标准化；受控改变 C</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(612.72 100.527708)">核函数、gamma 与尺度比较</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #c9714d" x="39.6" y="194.260693" transform="rotate(-0 39.6 194.260693)">04</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="74.16" y="194.729199" transform="rotate(-0 74.16 194.729199)">验证与稳定性</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(39.6 236.155876)">平衡准确率选参；阈值为 0</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(39.6 252.384465)">人工扰动检验局部敏感性</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #c9714d" x="326.16" y="194.260693" transform="rotate(-0 326.16 194.260693)">05</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="360.72" y="194.678418" transform="rotate(-0 360.72 194.678418)">固定配置</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(326.16 235.925876)">Linear：C = 1</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(326.16 250.882278)">RBF：C = 10，gamma = 10</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #c9714d" x="612.72" y="194.260693" transform="rotate(-0 612.72 194.260693)">06</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="647.28" y="194.678418" transform="rotate(-0 647.28 194.678418)">留出测试与解释</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(612.72 236.200798)">62 条记录；不合并验证集重训</text>
+    <text style="font-size: 11.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(612.72 252.362004)">两类召回率、AUC及适用边界</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 279.198369 72 
+Q 289.079031 72 297.618053 72 
+" style="fill: none; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 293.618053 70 
+L 297.618053 72 
+L 293.618053 74 
+z
+" style="fill: #6c7476; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 565.758369 72 
+Q 575.639031 72 584.178053 72 
+" style="fill: none; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 580.178053 70 
+L 584.178053 72 
+L 580.178053 74 
+z
+" style="fill: #6c7476; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 279.198369 223.2 
+Q 289.079031 223.2 297.618053 223.2 
+" style="fill: none; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 293.618053 221.2 
+L 297.618053 223.2 
+L 293.618053 225.2 
+z
+" style="fill: #6c7476; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 565.758369 223.2 
+Q 575.639031 223.2 584.178053 223.2 
+" style="fill: none; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 580.178053 221.2 
+L 584.178053 223.2 
+L 580.178053 225.2 
+z
+" style="fill: #6c7476; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 144 149.603203 
+Q 144 157.682003 144 164.419161 
+" style="fill: none; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 146 160.419161 
+L 144 164.419161 
+L 142 160.419161 
+z
+" style="fill: #6c7476; stroke: #6c7476; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p96b02d8385">
+   <rect x="0" y="0" width="864" height="295.2"/>
+  </clipPath>
+ </defs>
+</svg>

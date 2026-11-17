@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="878.4pt" height="352.8pt" viewBox="0 0 878.4 352.8" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-04T17:26:23.633932</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 352.8 
+L 878.4 352.8 
+L 878.4 0 
+L 0 0 
+z
+" style="fill: #f7f0e6"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 21.24 113.4 
+L 853.56 113.4 
+Q 858.6 113.4 858.6 108.36 
+L 858.6 24.84 
+Q 858.6 19.8 853.56 19.8 
+L 21.24 19.8 
+Q 16.2 19.8 16.2 24.84 
+L 16.2 108.36 
+Q 16.2 113.4 21.24 113.4 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 21.24 250.2 
+L 277.56 250.2 
+Q 282.6 250.2 282.6 245.16 
+L 282.6 140.04 
+Q 282.6 135 277.56 135 
+L 21.24 135 
+Q 16.2 135 16.2 140.04 
+L 16.2 245.16 
+Q 16.2 250.2 21.24 250.2 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 302.04 250.2 
+L 558.36 250.2 
+Q 563.4 250.2 563.4 245.16 
+L 563.4 140.04 
+Q 563.4 135 558.36 135 
+L 302.04 135 
+Q 297 135 297 140.04 
+L 297 245.16 
+Q 297 250.2 302.04 250.2 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 582.84 250.2 
+L 853.56 250.2 
+Q 858.6 250.2 858.6 245.16 
+L 858.6 140.04 
+Q 858.6 135 853.56 135 
+L 582.84 135 
+Q 577.8 135 577.8 140.04 
+L 577.8 245.16 
+Q 577.8 250.2 582.84 250.2 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 21.24 336.6 
+L 558.36 336.6 
+Q 563.4 336.6 563.4 331.56 
+L 563.4 276.84 
+Q 563.4 271.8 558.36 271.8 
+L 21.24 271.8 
+Q 16.2 271.8 16.2 276.84 
+L 16.2 331.56 
+Q 16.2 336.6 21.24 336.6 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 582.84 336.6 
+L 853.56 336.6 
+Q 858.6 336.6 858.6 331.56 
+L 858.6 276.84 
+Q 858.6 271.8 853.56 271.8 
+L 582.84 271.8 
+Q 577.8 271.8 577.8 276.84 
+L 577.8 331.56 
+Q 577.8 336.6 582.84 336.6 
+z
+" clip-path="url(#pcd1306599c)" style="fill: #f7f0e6; stroke: #c7b29c; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 716.4 248.4 
+L 716.4 262.08 
+" clip-path="url(#pcd1306599c)" style="fill: none; stroke: #29343b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 716.4 262.08 
+L 151.2 262.08 
+" clip-path="url(#pcd1306599c)" style="fill: none; stroke: #29343b; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 860.4 97.2 
+L 868.32 97.2 
+" clip-path="url(#pcd1306599c)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #8c8176"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 868.32 97.2 
+L 868.32 304.56 
+" clip-path="url(#pcd1306599c)" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #8c8176"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="28.8" y="43.250391" transform="rotate(-0 28.8 43.250391)">a  研究任务与固定划分</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="32.4" y="85.109714" transform="rotate(-0 32.4 85.109714)">310 条脊柱测量记录  ·  骨盆入射角 + 滑脱程度  →  NO / AB 标签</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #387da0" x="32.4" y="95.76" transform="rotate(-0 32.4 95.76)">训练 186 条：拟合 scaler 与模型</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #c9714d" x="327.6" y="95.76" transform="rotate(-0 327.6 95.76)">验证 62 条：参数比较与选择</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #8c8176" x="619.2" y="95.76" transform="rotate(-0 619.2 95.76)">测试 62 条：固定后评价</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="28.8" y="158.426953" transform="rotate(-0 28.8 158.426953)">b  间隔与支持向量</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(32.4 199.710066)">八点子集：边界、距离与 margin</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(32.4 216.040745)">删除支持向量 / 非支持向量</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(32.4 231.213142)">矛盾标签与 hinge loss</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="309.6" y="158.450391" transform="rotate(-0 309.6 158.450391)">c  受控参数实验</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(313.2 199.710066)">完整训练集：soft margin 与 C</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(313.2 214.779924)">linear / polynomial / RBF</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(313.2 231.213142)">固定 C 改 gamma；检验尺度影响</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="590.4" y="158.426953" transform="rotate(-0 590.4 158.426953)">d  验证与稳定性</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(594 200.289207)">以平衡准确率选择各家族配置</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(594 216.040745)">默认决策分数阈值为 0</text>
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; fill: #29343b" transform="translate(594 231.812791)">输入扰动实验；分数不是概率</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 151.2 113.602588 
+Q 151.2 124.200283 151.2 133.679943 
+" style="fill: none; stroke: #387da0; stroke-linecap: round"/>
+    <path d="M 153.4 129.279943 
+L 151.2 133.679943 
+L 149 129.279943 
+z
+" style="fill: #387da0; stroke: #387da0; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 282.799512 194.4 
+Q 289.801679 194.4 295.685811 194.4 
+" style="fill: none; stroke: #29343b; stroke-linecap: round"/>
+    <path d="M 291.285811 192.2 
+L 295.685811 194.4 
+L 291.285811 196.6 
+z
+" style="fill: #29343b; stroke: #29343b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 563.599512 194.4 
+Q 570.601679 194.4 576.485811 194.4 
+" style="fill: none; stroke: #29343b; stroke-linecap: round"/>
+    <path d="M 572.085811 192.2 
+L 576.485811 194.4 
+L 572.085811 196.6 
+z
+" style="fill: #29343b; stroke: #29343b; stroke-linecap: round"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="28.8" y="295.226953" transform="rotate(-0 28.8 295.226953)">e  固定方案</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #387da0" x="32.4" y="316.8" transform="rotate(-0 32.4 316.8)">Linear：C = 1     |     RBF：C = 10，gamma = 10     |     不合并验证集重训</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="590.4" y="295.226953" transform="rotate(-0 590.4 295.226953)">f  留出评价与解释边界</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10.5px; font-family: 'Times New Roman', 'SimSun'; text-anchor: start; fill: #29343b" x="594" y="316.8" transform="rotate(-0 594 316.8)">混淆矩阵、AUC与两类召回率</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 151.2 264.079687 
+Q 151.2 267.838073 151.2 270.478424 
+" style="fill: none; stroke: #29343b; stroke-linecap: round"/>
+    <path d="M 153.4 266.078424 
+L 151.2 270.478424 
+L 149 266.078424 
+z
+" style="fill: #29343b; stroke: #29343b; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 563.599512 304.56 
+Q 570.601679 304.56 576.485811 304.56 
+" style="fill: none; stroke: #387da0; stroke-linecap: round"/>
+    <path d="M 572.085811 302.36 
+L 576.485811 304.56 
+L 572.085811 306.76 
+z
+" style="fill: #387da0; stroke: #387da0; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 866.320313 304.56 
+Q 862.561927 304.56 859.921576 304.56 
+" style="fill: none; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #8c8176; stroke-linecap: round"/>
+    <path d="M 864.321576 306.76 
+L 859.921576 304.56 
+L 864.321576 302.36 
+z
+" style="fill: #8c8176; stroke-dasharray: 3.7,1.6; stroke-dashoffset: 0; stroke: #8c8176; stroke-linecap: round"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcd1306599c">
+   <rect x="7.2" y="7.2" width="864" height="338.4"/>
+  </clipPath>
+ </defs>
+</svg>

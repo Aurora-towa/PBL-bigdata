@@ -1,0 +1,25 @@
+{
+  "features": [
+    "pelvic_incidence",
+    "degree_spondylolisthesis"
+  ],
+  "training_n": 186,
+  "validation_n": 62,
+  "scaler": "StandardScaler fit on train only",
+  "threshold": 0,
+  "selection": "Within each family maximize validation balanced accuracy; tie smaller C then smaller gamma",
+  "configs": {
+    "linear": [
+      "linear",
+      1.0,
+      0.1
+    ],
+    "rbf": [
+      "rbf",
+      10.0,
+      10.0
+    ]
+  },
+  "refit_train_validation": false,
+  "test_scope": "Course held-out demonstration, already evaluated by course authors; not independent prospective confirmation"
+}

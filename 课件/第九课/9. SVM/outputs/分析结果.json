@@ -1,0 +1,357 @@
+{
+  "audit": {
+    "n": 310,
+    "missing": 0,
+    "unique_ids": 310,
+    "train_pos": 126,
+    "val_pos": 42,
+    "ranges": {
+      "pelvic_incidence": [
+        26.15,
+        129.83
+      ],
+      "degree_spondylolisthesis": [
+        -11.06,
+        418.54
+      ]
+    }
+  },
+  "geometry": {
+    "w": [
+      0.7286852427151724,
+      0.7492279528445728
+    ],
+    "b": -0.020002722800898765,
+    "width": 1.9136130187907316,
+    "candidates": [
+      {
+        "offset": -0.6,
+        "b": -0.6200027228008987,
+        "training_errors": 0,
+        "min_signed_distance": 0.3827226092973082
+      },
+      {
+        "offset": 0.0,
+        "b": -0.020002722800898765,
+        "training_errors": 0,
+        "min_signed_distance": 0.9568065149345276
+      },
+      {
+        "offset": 0.6,
+        "b": 0.5799972771991012,
+        "training_errors": 0,
+        "min_signed_distance": 0.3827226189933401
+      }
+    ],
+    "changes": [
+      {
+        "operation": "delete_non_support",
+        "sample_id": "V072",
+        "coefficient_change": 0.0,
+        "intercept_change": 0.0,
+        "score_change_max": 0.0
+      },
+      {
+        "operation": "delete_support",
+        "sample_id": "V061",
+        "coefficient_change": 0.15661740830568163,
+        "intercept_change": 0.1277518358449362,
+        "score_change_max": 0.4274535716720158
+      }
+    ],
+    "contradiction": [
+      {
+        "C": 0.01,
+        "errors": 4,
+        "sum_hinge": 7.2875931535559335,
+        "n_sv": 8
+      },
+      {
+        "C": 1.0,
+        "errors": 1,
+        "sum_hinge": 2.0,
+        "n_sv": 4
+      },
+      {
+        "C": 100.0,
+        "errors": 1,
+        "sum_hinge": 2.0,
+        "n_sv": 4
+      }
+    ],
+    "records": [
+      {
+        "sample_id": "V213",
+        "pelvic_incidence": 44.36,
+        "degree_spondylolisthesis": 4.99,
+        "abnormal": 0,
+        "z1": -0.9956910441793994,
+        "z2": -0.5566353666857626,
+        "score": -1.16259486926095,
+        "signed_margin": 1.16259486926095,
+        "distance": 1.1123783386985313,
+        "hinge": 0.0,
+        "support": false
+      },
+      {
+        "sample_id": "V215",
+        "pelvic_incidence": 45.7,
+        "degree_spondylolisthesis": -3.39,
+        "abnormal": 0,
+        "z1": -0.9195164891490193,
+        "z2": -0.7576446601421406,
+        "score": -1.2576893765789732,
+        "signed_margin": 1.2576893765789732,
+        "distance": 1.203365382308161,
+        "hinge": 0.0,
+        "support": false
+      },
+      {
+        "sample_id": "V216",
+        "pelvic_incidence": 30.74,
+        "degree_spondylolisthesis": -2.01,
+        "abnormal": 0,
+        "z1": -1.769942864712067,
+        "z2": -0.7245428910526656,
+        "score": -1.8525817557770758,
+        "signed_margin": 1.8525817557770758,
+        "distance": 1.772562283114602,
+        "hinge": 0.0,
+        "support": false
+      },
+      {
+        "sample_id": "V217",
+        "pelvic_incidence": 50.91,
+        "degree_spondylolisthesis": -1.06,
+        "abnormal": 0,
+        "z1": -0.6233452714562738,
+        "z2": -0.7017554413171572,
+        "score": -1.000000015922962,
+        "signed_margin": 1.000000015922962,
+        "distance": 0.9568065246305595,
+        "hinge": 0.0,
+        "support": true
+      },
+      {
+        "sample_id": "V061",
+        "pelvic_incidence": 74.38,
+        "degree_spondylolisthesis": 56.13,
+        "abnormal": 1,
+        "z1": 0.7108463752325443,
+        "z2": 0.6700490327604393,
+        "score": 1.0000000057892184,
+        "signed_margin": 1.0000000057892184,
+        "distance": 0.9568065149345276,
+        "hinge": 0.0,
+        "support": true
+      },
+      {
+        "sample_id": "V068",
+        "pelvic_incidence": 75.65,
+        "degree_spondylolisthesis": 69.55,
+        "abnormal": 1,
+        "z1": 0.7830416624628305,
+        "z2": 0.991951743760987,
+        "score": 1.2937861553655694,
+        "signed_margin": 1.2937861553655694,
+        "distance": 1.2379030152193808,
+        "hinge": 0.0,
+        "support": false
+      },
+      {
+        "sample_id": "V072",
+        "pelvic_incidence": 86.9,
+        "degree_spondylolisthesis": 101.72,
+        "abnormal": 1,
+        "z1": 1.4225668446208708,
+        "z2": 1.7636067521728822,
+        "score": 2.337944220203572,
+        "signed_margin": 2.337944220203572,
+        "distance": 2.23696024849405,
+        "hinge": 0.0,
+        "support": false
+      },
+      {
+        "sample_id": "V073",
+        "pelvic_incidence": 84.97,
+        "degree_spondylolisthesis": 74.33,
+        "abnormal": 1,
+        "z1": 1.31285274670398,
+        "z2": 1.1066085961143866,
+        "score": 1.76575579264736,
+        "signed_margin": 1.76575579264736,
+        "distance": 1.6894866364075678,
+        "hinge": 0.0,
+        "support": false
+      }
+    ]
+  },
+  "scale_delta": {
+    "False": 1.5376598755511461,
+    "True": 1.7763568394002505e-14
+  },
+  "chosen": [
+    {
+      "kernel": "linear",
+      "C": 1.0,
+      "gamma": 0.1,
+      "n_sv": 89,
+      "train_errors": 37,
+      "mean_hinge": 0.40576480833953643,
+      "margin_violations": 86,
+      "train_n": 186,
+      "train_TN": 57,
+      "train_FP": 3,
+      "train_FN": 34,
+      "train_TP": 92,
+      "train_accuracy": 0.8010752688172043,
+      "train_balanced_accuracy": 0.840079365079365,
+      "train_sensitivity": 0.7301587301587301,
+      "train_specificity": 0.95,
+      "train_roc_auc": 0.8994708994708995,
+      "val_n": 62,
+      "val_TN": 18,
+      "val_FP": 2,
+      "val_FN": 16,
+      "val_TP": 26,
+      "val_accuracy": 0.7096774193548387,
+      "val_balanced_accuracy": 0.7595238095238095,
+      "val_sensitivity": 0.6190476190476191,
+      "val_specificity": 0.9,
+      "val_roc_auc": 0.8297619047619048,
+      "linear_width": 0.6052398038714227,
+      "regularizer": 5.459778599865177,
+      "objective": 80.93203295101895
+    },
+    {
+      "kernel": "rbf",
+      "C": 10.0,
+      "gamma": 10.0,
+      "n_sv": 108,
+      "train_errors": 25,
+      "mean_hinge": 0.24849361906777515,
+      "margin_violations": 46,
+      "train_n": 186,
+      "train_TN": 53,
+      "train_FP": 7,
+      "train_FN": 18,
+      "train_TP": 108,
+      "train_accuracy": 0.8655913978494624,
+      "train_balanced_accuracy": 0.8702380952380953,
+      "train_sensitivity": 0.8571428571428571,
+      "train_specificity": 0.8833333333333333,
+      "train_roc_auc": 0.9548941798941798,
+      "val_n": 62,
+      "val_TN": 16,
+      "val_FP": 4,
+      "val_FN": 8,
+      "val_TP": 34,
+      "val_accuracy": 0.8064516129032258,
+      "val_balanced_accuracy": 0.8047619047619048,
+      "val_sensitivity": 0.8095238095238095,
+      "val_specificity": 0.8,
+      "val_roc_auc": 0.7809523809523811,
+      "linear_width": NaN,
+      "regularizer": NaN,
+      "objective": NaN
+    }
+  ],
+  "test": [
+    {
+      "family": "linear",
+      "C": 1.0,
+      "gamma": 0.1,
+      "n": 62,
+      "TN": 19,
+      "FP": 1,
+      "FN": 12,
+      "TP": 30,
+      "accuracy": 0.7903225806451613,
+      "balanced_accuracy": 0.8321428571428571,
+      "sensitivity": 0.7142857142857143,
+      "specificity": 0.95,
+      "roc_auc": 0.8238095238095239
+    },
+    {
+      "family": "rbf",
+      "C": 10.0,
+      "gamma": 10.0,
+      "n": 62,
+      "TN": 19,
+      "FP": 1,
+      "FN": 11,
+      "TP": 31,
+      "accuracy": 0.8064516129032258,
+      "balanced_accuracy": 0.844047619047619,
+      "sensitivity": 0.7380952380952381,
+      "specificity": 0.95,
+      "roc_auc": 0.8142857142857143
+    }
+  ],
+  "noise": [
+    {
+      "noise_sd_fraction": 0.0,
+      "repeats": 1,
+      "mean_balanced_accuracy": 0.7595238095238095,
+      "sd_balanced_accuracy": 0.0,
+      "mean_flip_rate": 0.0,
+      "family": "linear"
+    },
+    {
+      "noise_sd_fraction": 0.05,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.7498690476190477,
+      "sd_balanced_accuracy": 0.022138949347954434,
+      "mean_flip_rate": 0.029999999999999995,
+      "family": "linear"
+    },
+    {
+      "noise_sd_fraction": 0.1,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.7523214285714285,
+      "sd_balanced_accuracy": 0.029517268380611722,
+      "mean_flip_rate": 0.05435483870967741,
+      "family": "linear"
+    },
+    {
+      "noise_sd_fraction": 0.2,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.7300238095238094,
+      "sd_balanced_accuracy": 0.04706691213248512,
+      "mean_flip_rate": 0.12112903225806453,
+      "family": "linear"
+    },
+    {
+      "noise_sd_fraction": 0.0,
+      "repeats": 1,
+      "mean_balanced_accuracy": 0.8047619047619048,
+      "sd_balanced_accuracy": 0.0,
+      "mean_flip_rate": 0.0,
+      "family": "rbf"
+    },
+    {
+      "noise_sd_fraction": 0.05,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.746345238095238,
+      "sd_balanced_accuracy": 0.03251994634729337,
+      "mean_flip_rate": 0.0696774193548387,
+      "family": "rbf"
+    },
+    {
+      "noise_sd_fraction": 0.1,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.7197261904761905,
+      "sd_balanced_accuracy": 0.05082768871303611,
+      "mean_flip_rate": 0.13758064516129032,
+      "family": "rbf"
+    },
+    {
+      "noise_sd_fraction": 0.2,
+      "repeats": 100,
+      "mean_balanced_accuracy": 0.6828690476190475,
+      "sd_balanced_accuracy": 0.05659882268232213,
+      "mean_flip_rate": 0.22032258064516128,
+      "family": "rbf"
+    }
+  ]
+}
